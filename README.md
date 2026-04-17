@@ -15,7 +15,7 @@ Project Description:
 
 This project analyzes loan default risk using customer financial data. The analysis identifies key factors influencing loan defaults such as credit score, income level, loan amount, and loan purpose. A Power BI dashboard was built to visualize risk patterns and support data-driven decision making.
 
-Key Insights (Add This Section)
+Key Insights 
 Findings:
 * Overall loan default rate ≈ 22%
 * High-risk customers default ~28%
